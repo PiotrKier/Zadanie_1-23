@@ -1,0 +1,36 @@
+p#pogrubienie_kierbedz {
+	font-size:33px;
+	color:#8858D2;
+	font-weight:bold;
+}
+
+p#pochylona_kierbedz {
+	font-size:38px;
+	color:#ECBC6E;
+	font-style:italic;
+}
+
+p#index_gorny_kierbedz {
+	font-size:1.3cm;
+	color:#9C941E;
+	vertical-align:super;
+}
+
+p#index_dolny_kierbedz {
+	font-size:2.1cm;
+	color:RGB(56,248,230);
+	vertical-align:sub;
+}
+
+p#mono_kierbedz {
+	color:#1CE46E;
+	font-size: 43px;
+}
+
+p#powiekszenie_kierbedz {
+	color:#5644A0;
+}
+
+p#pomniejszenie_kierbedz {
+	color: RGB(186,168,160);
+}

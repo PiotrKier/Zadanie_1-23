@@ -1,0 +1,26 @@
+p {
+color: orange;
+font-size: 20pt;
+font-face: Arial;
+}
+
+i {
+color: green;
+font-size: 20pt;
+}
+
+strke {
+color: red;
+font-size: 20pt;
+}
+
+u {
+color: purple;
+font-size: 20pt;
+text-decoration: overline;
+}
+
+h1 {
+color: blue;
+font-size:30pt;
+}
